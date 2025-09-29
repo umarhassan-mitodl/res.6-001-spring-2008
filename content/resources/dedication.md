@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-6-001-electromagnetic-fields-and-energy-spring-2008/53b6d2f99ab608aafee26c2fe25cc3e2_dedication.pdf
 file_size: 42421
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
